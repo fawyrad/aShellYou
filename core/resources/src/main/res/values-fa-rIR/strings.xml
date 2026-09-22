@@ -300,6 +300,7 @@
     <string name="database">پایگاه داده</string>
     <string name="database_modification" comment="Title for the database skill toggle in AI settings">تغییر پایگاه داده</string>
     <string name="databases_only" comment="Option in backup content selector to include database files only">فقط پایگاه‌های داده</string>
+    <string name="days" comments="Days as in number of days">Days</string>
     <string name="default_folder" comment="Default folder location label in file manager settings">پوشه پیش‌فرض</string>
     <string name="default_language" comment="Setting preference label for selecting application language">زبان پیش‌فرض</string>
     <string name="delete">حذف</string>
@@ -718,6 +719,10 @@
     <string name="not_signed_in" comment="Status text in cloud backup settings when Google account is signed out">وارد سیستم نشده‌اید</string>
     <string name="nothing_to_clear" comment="Toast notification when user taps clear output but screen is already empty">چیزی برای پاک کردن نیست</string>
     <string name="nothing_to_search" comment="Toast message when search query string is empty">چیزی برای جستجو نیست</string>
+    <string name="notification_group_connection" comment="Notification channel group name for connection related notifications">Connection &amp; Pairing</string>
+    <string name="notification_group_developer" comment="Notification channel group name for developer tools like logcat">Developer Tools</string>
+    <string name="notification_group_qs" comment="Notification channel group name for quick settings tile executions">Quick Settings</string>
+    <string name="notification_group_tasks" comment="Notification channel group name for background tasks like backup and sideload">Background Tasks</string>
     <string name="notification_settings" comment="Button label to open system notification settings screen">تنظیمات اعلان</string>
     <string name="notification_style_error" comment="Troubleshooting guide text explaining Xiaomi/MIUI notification shade issues with entering pairing code">اگر نمی‌توانید کد جفت‌سازی را از اعلان وارد کنید، ممکن است نیاز باشد سبک اعلان را به اندروید تغییر دهید. به تنظیمات اعلان ~ سبک اعلان بروید. در غیر این صورت ممکن است نتوانید کد جفت‌سازی را از اعلان وارد کنید.</string>
     <string name="notification_styles" comment="Settings preference title for notification shade style options">سبک‌های اعلان</string>
@@ -1014,6 +1019,8 @@
     <string name="tile" comment="Refers to Android System Quick Settings tile">کاشی</string>
     <string name="tile_behavior" comment="Settings title for Quick Settings tile click behavior (click vs long-click)">رفتار کاشی</string>
     <string name="tile_dashboard_notification_access_message" comment="Banner notice asking for notification permission to report tile execution errors">اعلان‌ها را روشن کنید تا هر زمان اجرای کاشی با خطا مواجه شد مطلع شوید</string>
+    <string name="tile_execution_errors" comment="Tile here refers to the device Quick Settings Tiles that user can define and execute using Shizuku or Root">Tile execution errors</string>
+    <string name="tile_execution_errors_channel_description" comment="Android notification channel description for Tile Execution Errors">Notifications for Quick Settings tile execution failures.</string>
     <string name="tile_logs" comment="Tab header for Quick Settings tile execution history log">لاگ‌های کاشی</string>
     <string name="tile_n" comment="%1$d = tile number. Refers to Quick Settings tiles">کاشی %1$d</string>
     <string name="tile_name" comment="Field label for Quick Settings tile title text">نام کاشی</string>
